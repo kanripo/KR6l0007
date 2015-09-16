@@ -1,26 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:47:32.630942
+#+DATE: 2015-08-30 20:47:37.489900
 #+TITLE: 阿毘達磨品類足論
 #+PROPERTY: CBETA_ID T26n1542
 #+PROPERTY: ID KR6l0007
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1542
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENG
 #+PROPERTY: LASTPB <pb:KR6l0007_T_000-0692b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6l0007_T_015-0753a> 
 #+PROPERTY: JUAN 15
 ¶
-
- 《阿毘達磨品類足論》卷第十五¶
+《阿毘達磨品類足論》卷第十五¶
 ¶
 尊者世友造¶
 三藏法師玄奘奉　詔譯¶
 
-:PROPERTIES:
-:head: 辯千問品第七之六
-:END:
-¶
+辯千問品第七之六¶
 
 此七覺支幾斷遍知所遍知等者。一切非¶
 斷遍知所遍知。幾應斷等者。一切不應斷。幾¶
@@ -50,7 +46,7 @@
 <pb:KR6l0007_T_015-0753b>¶
 亦受相應。幾隨心轉非想行相應等者。一切¶
 隨心轉想行相應。除其自性。幾隨尋轉非伺¶
-相應等者。一切應分別。謂念等覺支。或有尋¶
+相應等者。一切應分別。語念等覺支。或有尋¶
 有伺。或無尋唯伺。或無尋無伺。云何有尋有¶
 伺。謂有尋有伺作意相應念等覺支。云何無¶
 尋唯伺。謂無尋唯伺作意相應念等覺支。云¶
