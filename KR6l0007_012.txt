@@ -1,26 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:47:32.553976
+#+DATE: 2015-08-30 20:47:38.238916
 #+TITLE: 阿毘達磨品類足論
 #+PROPERTY: CBETA_ID T26n1542
 #+PROPERTY: ID KR6l0007
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1542
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6l0007_T_000-0692b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6l0007_T_012-0739c> 
 #+PROPERTY: JUAN 12
 ¶
-
- 《阿毘達磨品類足論》卷第十二¶
+《阿毘達磨品類足論》卷第十二¶
 ¶
 尊者世友造¶
 三藏法師玄奘奉　詔譯¶
 
-:PROPERTIES:
-:head: 辯千問品第七之三
-:END:
-¶
+辯千問品第七之三¶
 
 此四念住幾斷遍知所遍知等者。一切應分¶
 別。謂諸念住。若有漏是斷遍知所遍知。若無¶

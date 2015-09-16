@@ -1,29 +1,24 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:47:32.224954
+#+DATE: 2015-08-30 20:47:37.952064
 #+TITLE: 阿毘達磨品類足論
 #+PROPERTY: CBETA_ID T26n1542
 #+PROPERTY: ID KR6l0007
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1542
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6l0007_T_000-0692b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6l0007_T_001-0692b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1542[No.1541]¶
-
- 《阿毘達磨品類足論》卷第一¶
+No. 1542 [No. 1541]¶
+《阿毘達磨品類足論》卷第一¶
 ¶
 尊者世友造¶
 三藏法師玄奘奉　詔譯¶
 
-1辯五事品
-:PROPERTIES:
-:head: 辯五事品第一
-:END:
-¶
+辯五事品第一¶
 
 有五法。一色。二心。三心所法。四心不相應¶
 行。五無為。色云何。謂諸所有色。一切四大¶
@@ -192,11 +187,7 @@ No.1542[No.1541]¶
 寬曠無礙。不障色行。非擇滅云何。謂滅非¶
 離繫。擇滅云何。謂滅是離繫。¶
 
-2辯諸智品
-:PROPERTIES:
-:head: 《品類足論》辯諸智品第二之一
-:END:
-¶
+《品類足論》辯諸智品第二之一¶
 
 有十智。如前說。法智何所緣。謂緣欲界繫諸¶
 行及一分無漏法。類智何所緣。謂緣色無色¶

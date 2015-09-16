@@ -1,27 +1,23 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:47:32.455331
+#+DATE: 2015-08-30 20:47:38.165599
 #+TITLE: 阿毘達磨品類足論
 #+PROPERTY: CBETA_ID T26n1542
 #+PROPERTY: ID KR6l0007
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1542
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6l0007_T_000-0692b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6l0007_T_009-0726b> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 9
 ¶
 ¶
-
- 《阿毘達磨品類足論》卷第九¶
+《阿毘達磨品類足論》卷第九¶
 ¶
 尊者世友造¶
 三藏法師玄奘奉　詔譯¶
 
-:PROPERTIES:
-:head: 辯攝等品第六之五
-:END:
-¶
+辯攝等品第六之五¶
 
 異生法法。十八界十二處五蘊攝。八智知。除¶
 滅道智。六識識。欲色界一切隨眠隨增。非異¶
