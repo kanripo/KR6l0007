@@ -1,27 +1,23 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:47:32.255269
+#+DATE: 2015-08-30 20:47:38.780247
 #+TITLE: 阿毘達磨品類足論
 #+PROPERTY: CBETA_ID T26n1542
 #+PROPERTY: ID KR6l0007
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1542
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0007_T_000-0692b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6l0007_T_002-0695c> ¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 《阿毘達磨品類足論》卷第二¶
+《阿毘達磨品類足論》卷第二¶
 ¶
 尊者世友造¶
 三藏法師玄奘奉　詔譯¶
 
-:PROPERTIES:
-:head: 辯諸智品第二之餘
-:END:
-¶
+辯諸智品第二之餘¶
 
 何故道智是道智全。答道智知聖道道如行¶
 出故。何故道智是法智少分。答道智知欲界¶
@@ -88,11 +84,7 @@
 緣。云何有為緣。謂緣苦集道。云何無為緣。¶
 謂緣擇滅及虛空非擇滅。¶
 
-3辯諸處品
-:PROPERTIES:
-:head: 《品類足論》辯諸處品第三
-:END:
-¶
+《品類足論》辯諸處品第三¶
 
 有十二處。謂眼處色處耳處聲處鼻處香處¶
 舌處味處身處觸處意處法處。此十二處。幾¶
@@ -290,11 +282,7 @@
 十二攝九十八。九十八攝二十二耶。答互不¶
 相攝。¶
 
-4辯七事品
-:PROPERTIES:
-:head: 《品類足論》辯七事品第四之一
-:END:
-¶
+《品類足論》辯七事品第四之一¶
 
 十八界十二處五蘊五取蘊六界。十大地法。¶
 十大善地法。十大煩惱地法。十小煩惱地法。

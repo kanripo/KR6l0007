@@ -1,27 +1,23 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:47:32.344609
+#+DATE: 2015-08-30 20:47:38.849142
 #+TITLE: 阿毘達磨品類足論
 #+PROPERTY: CBETA_ID T26n1542
 #+PROPERTY: ID KR6l0007
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1542
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0007_T_000-0692b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6l0007_T_005-0708c> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 5
 ¶
 ¶
-
- 《阿毘達磨品類足論》卷第五¶
+《阿毘達磨品類足論》卷第五¶
 ¶
 尊者世友造¶
 三藏法師玄奘奉　詔譯¶
 
-:PROPERTIES:
-:head: 辯隨眠品第五之餘
-:END:
-¶
+辯隨眠品第五之餘¶
 
 於見滅所斷無明。幾隨眠所緣故隨增非相¶
 應故。幾隨眠相應故隨增非所緣故。幾隨眠¶
@@ -257,11 +253,7 @@
 緣無色界繫。若諸隨眠欲界繫。緣色無色界¶
 繫。異地緣亦爾。¶
 
-6辯攝等品
-:PROPERTIES:
-:head: 《品類足論》辯攝等品第六之一
-:END:
-¶
+《品類足論》辯攝等品第六之一¶
 
 有所知法。所識法。所通達法。所緣法。增上¶
 法。有色法無色法。有見法。無見法。有對法。¶

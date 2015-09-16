@@ -1,26 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:47:32.370882
+#+DATE: 2015-08-30 20:47:38.878310
 #+TITLE: 阿毘達磨品類足論
 #+PROPERTY: CBETA_ID T26n1542
 #+PROPERTY: ID KR6l0007
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1542
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0007_T_000-0692b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6l0007_T_006-0713b> 
 #+PROPERTY: JUAN 6
 ¶
-
- 《阿毘達磨品類足論》卷第六¶
+《阿毘達磨品類足論》卷第六¶
 ¶
 尊者世友造¶
 三藏法師玄奘奉　詔譯¶
 
-:PROPERTIES:
-:head: 辯攝等品第六之二
-:END:
-¶
+辯攝等品第六之二¶
 
 有九結。謂愛結恚結慢結無明結見結取結¶
 疑結嫉結慳結。有九有情居。謂有色有情身¶

@@ -1,27 +1,23 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:47:32.608355
+#+DATE: 2015-08-30 20:47:39.084822
 #+TITLE: 阿毘達磨品類足論
 #+PROPERTY: CBETA_ID T26n1542
 #+PROPERTY: ID KR6l0007
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1542
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0007_T_000-0692b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6l0007_T_014-0748b> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 14
 ¶
 ¶
-
- 《阿毘達磨品類足論》卷第十四¶
+《阿毘達磨品類足論》卷第十四¶
 ¶
 尊者世友造¶
 三藏法師玄奘奉　詔譯¶
 
-:PROPERTIES:
-:head: 辯千問品第七之五
-:END:
-¶
+辯千問品第七之五¶
 
 此四無量幾所造色非有對色等者。一切¶
 應分別。謂諸無量所攝身語業。是所造色非¶
@@ -332,7 +328,7 @@
 轉身語業。諸餘為分別慧所攝身語業。除為¶
 分別慧所攝心不相應行。諸餘為分別慧所¶
 攝心不相應行。幾隨心轉非想行相應等者。¶
-除其自性。如受應知。幾隨尋轉非伺相應等¶
+餘其自性。如受應知。幾隨尋轉非伺相應等¶
 者。一無尋無伺。三應分別。謂為現法樂住。有¶
 四句。或隨尋轉非伺相應。謂為現法樂住所¶
 攝隨尋轉身語業心不相應行及伺。或伺相¶

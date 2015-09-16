@@ -1,26 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:47:32.281958
+#+DATE: 2015-08-30 20:47:38.799955
 #+TITLE: 阿毘達磨品類足論
 #+PROPERTY: CBETA_ID T26n1542
 #+PROPERTY: ID KR6l0007
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1542
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0007_T_000-0692b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6l0007_T_003-0700a> 
 #+PROPERTY: JUAN 3
 ¶
-
- 《阿毘達磨品類足論》卷第三¶
+《阿毘達磨品類足論》卷第三¶
 ¶
 尊者世友造¶
 三藏法師玄奘奉　詔譯¶
 
-:PROPERTIES:
-:head: 辯七事品第四之餘
-:END:
-¶
+辯七事品第四之餘¶
 
 信云何。謂信性增上信性。忍可欲作。欲為¶
 欲造。心澄淨性。是名為信。勤云何。謂勤精¶
@@ -213,11 +209,7 @@
 受。耳鼻舌身意觸所生受六想身。應知亦¶
 爾。¶
 
-5辯隨眠品
-:PROPERTIES:
-:head: 《品類足論》辯隨眠品第五之一
-:END:
-¶
+《品類足論》辯隨眠品第五之一¶
 
 九十八隨眠。幾欲界繫。幾色界繫。幾無色界¶
 繫。答三十六欲界繫。三十一色界繫。三十一¶
